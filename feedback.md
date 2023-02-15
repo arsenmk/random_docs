@@ -59,7 +59,7 @@ I should always seek feedback about various aspects of my work and behavior, inc
 #### my team should know that I am ready to listen to their feedback
   My immediate team is the people who I work with daily and I want good relations with them. That defines how much I enjoy my daily collaboration with the team, how much I consider myself a part of this team, etc. That is why I explicitly let my team know from time to time on different occasions that I am always ready to listen to whatever they want to say about me, especially the bad things. I can ask about it in my 1:1 calls with my peers, in a chat message, or in a group chat, and I should keep doing this regularly, so that people remember about it and new hires also get to know it.
 
-#### I must listen to the feedback but I am not obliged to accept it
+#### I must listen to the feedback but I am not obliged to act upon it
   Feedback from anyone and about anything is still someone's opinion or suggestion, does not matter how many levels higher is that someone or what role in the company they occupy, or whatever else. I will always listen to the feedback they have for me, but I will not necessarily agree and take action(s). Even if I disagree, I will not interrupt them or get agitated or anything else, I will just thank the person for the feedback, and then think about it, and then just decide not to act.
 
 ## Providing feedback
